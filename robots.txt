@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eraparyang.github.io/sitemap.html.gz
+Sitemap: https://eraparyang.github.io/app/sitemap.html.gz
+Sitemap: https://eraparyang.github.io/assets/sitemap.html.gz
+Sitemap: https://eraparyang.github.io/css/sitemap.html.gz
+Sitemap: https://eraparyang.github.io/includes/sitemap.html.gz
+Sitemap: https://eraparyang.github.io/item/sitemap.html.gz
+Sitemap: https://eraparyang.github.io/src/sitemap.html.gz
